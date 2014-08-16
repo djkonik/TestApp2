@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TestApp2</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="option1">Opcja 1</string>
+	<string name="option2">Opcja 2</string>
+	<string name="option3">Opcja 3</string>
+	<string name="vibrationOn">Turn vibration on</string>
+	<string name="vibrationOff">Turn vibration off</string>
+	<string name="soundOn">Turn sound on</string>
+	<string name="soundOff">Turn sound off</string>
+	
+</resources>

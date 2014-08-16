@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="rainbow1">#FFFFFF</color>
+    <color name="rainbow2">#FF0000</color>
+    <color name="rainbow3">#00FFFF</color>
+    <color name="rainbow4">#00FF00</color>
+    <color name="rainbow5">#FF00FF</color>
+    <color name="rainbow6">#0000FF</color>
+    <color name="rainbow7">#FFFF00</color>
+    <color name="rainbow8">#FF8000</color>
+    <color name="rainbow9">#0080FF</color>
+    <color name="rainbow10">#FF0080</color>
+    <color name="rainbow11">#00FF80</color>
+    <color name="rainbow12">#80FF00</color>
+    <color name="rainbow13">#8000FF</color>
+
+    <array name="rainbow">
+        <item>@color/rainbow1</item>
+        <item>@color/rainbow2</item>
+        <item>@color/rainbow3</item>
+        <item>@color/rainbow4</item>
+        <item>@color/rainbow5</item>
+        <item>@color/rainbow6</item>
+        <item>@color/rainbow7</item>
+        <item>@color/rainbow8</item>
+        <item>@color/rainbow9</item>
+        <item>@color/rainbow10</item>
+        <item>@color/rainbow11</item>
+        <item>@color/rainbow12</item>
+        <item>@color/rainbow13</item>
+    </array>
+</resources>
